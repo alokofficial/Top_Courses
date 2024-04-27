@@ -7,12 +7,12 @@ import 'react-toastify/dist/ReactToastify.css';
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.createRoot(document.getElementById('root')).render(
-  <React.StrictMode>
+ 
     <div className="font-['Poppins']" >
       <App />
       <ToastContainer />
     </div>
-  </React.StrictMode>,
+  
 )
 
 reportWebVitals();
