@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/alokofficial/Top_Courses.git/static/css/main.d463403b.css",
-    "main.js": "/alokofficial/Top_Courses.git/static/js/main.eef4b84b.js",
+    "main.js": "/alokofficial/Top_Courses.git/static/js/main.f4d4ea07.js",
     "static/js/453.222023cd.chunk.js": "/alokofficial/Top_Courses.git/static/js/453.222023cd.chunk.js",
     "index.html": "/alokofficial/Top_Courses.git/index.html",
     "main.d463403b.css.map": "/alokofficial/Top_Courses.git/static/css/main.d463403b.css.map",
-    "main.eef4b84b.js.map": "/alokofficial/Top_Courses.git/static/js/main.eef4b84b.js.map",
+    "main.f4d4ea07.js.map": "/alokofficial/Top_Courses.git/static/js/main.f4d4ea07.js.map",
     "453.222023cd.chunk.js.map": "/alokofficial/Top_Courses.git/static/js/453.222023cd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d463403b.css",
-    "static/js/main.eef4b84b.js"
+    "static/js/main.f4d4ea07.js"
   ]
 }
